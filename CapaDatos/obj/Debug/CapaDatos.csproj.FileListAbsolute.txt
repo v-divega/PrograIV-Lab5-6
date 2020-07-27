@@ -1,0 +1,12 @@
+C:\Users\diego\OneDrive\Escritorio\Universidad\Progra IV\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\diego\OneDrive\Escritorio\Universidad\Progra IV\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\diego\OneDrive\Escritorio\Universidad\Progra IV\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\diego\OneDrive\Escritorio\Universidad\Progra IV\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\diego\OneDrive\Escritorio\Universidad\Progra IV\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\diego\OneDrive\Escritorio\Lab4 Parte I\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\diego\OneDrive\Escritorio\Lab4 Parte I\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\diego\OneDrive\Escritorio\Lab4 Parte I\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\diego\OneDrive\Escritorio\Lab4 Parte I\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\diego\OneDrive\Escritorio\Lab4 Parte I\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\diego\OneDrive\Escritorio\Lab4 Parte I\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\diego\OneDrive\Escritorio\Universidad\Progra IV\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
